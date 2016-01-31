@@ -1,0 +1,7 @@
+"Subject.Number" is integer subject ID ranging from 1 to 30. 
+"Activity" is a factor has 6 possible activities. Walking, walking_upstairs, walking_downstairs, sitting, standing,laying.
+"Dataset" is a string denoting whether data is from “train”ing set or “test”ing set.
+
+Dataset only includes mean and standard deviation values. Upper group being mean and Lower group being standard deviation. The same amount of variables for mean and std exist. 
+
+For complete list see features_updated.txt
